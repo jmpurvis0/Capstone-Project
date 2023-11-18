@@ -6,6 +6,8 @@
 - https://stackoverflow.com/questions/30405413/pandas-extract-year-from-datetime-dfyear-dfdate-year-is-not-working
 - https://stackoverflow.com/questions/62557981/in-python-pandas-how-do-i-store-column-name-for-value-counts
 - https://stackoverflow.com/questions/24988873/python-sort-descending-dataframe-with-pandas
+- https://stackoverflow.com/questions/17071871/how-do-i-select-rows-from-a-dataframe-based-on-column-values
+- https://pandas.pydata.org/pandas-docs/version/0.23/generated/pandas.DataFrame.head.html
 
 
 ## Matplotlib
