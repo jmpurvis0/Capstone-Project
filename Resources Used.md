@@ -10,3 +10,7 @@
 
 ## Matplotlib
 - https://stackoverflow.com/questions/12050393/how-to-force-the-y-axis-to-only-use-integers
+
+
+## Markdown
+- https://www.markdownguide.org/cheat-sheet/
