@@ -13,6 +13,9 @@
 - https://stackoverflow.com/questions/17071871/how-do-i-select-rows-from-a-dataframe-based-on-column-values
 - https://pandas.pydata.org/pandas-docs/version/0.23/generated/pandas.DataFrame.head.html
 - https://pandas.pydata.org/pandas-docs/stable/user_guide/merging.html
+- https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.rename.html
+- https://stackoverflow.com/questions/22132525/add-column-with-number-of-days-between-dates-in-dataframe-pandas
+- https://stackoverflow.com/questions/17071871/how-do-i-select-rows-from-a-dataframe-based-on-column-values
 
 
 ## Matplotlib
