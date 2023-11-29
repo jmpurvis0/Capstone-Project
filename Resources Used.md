@@ -1,10 +1,12 @@
 # Resources Used
 
+
 ### Datasets
 1. [*Louisville Data*](https://data.louisvilleky.gov/datasets/LOJIC::louisville-metro-ky-animal-service-intake-and-outcome/about)
 2. [*Sonoma County Data*](https://data.sonomacounty.ca.gov/Government/Animal-Shelter-Intake-and-Outcome/924a-vesw)
 
-## Articles Used
+
+## Articles
 ### Pandas
 - ["Unicode Error" when reading CSV file](https://stackoverflow.com/questions/37400974/error-unicode-error-unicodeescape-codec-cant-decode-bytes-in-position-2-3)
 - [Convert time to datetime](https://stackoverflow.com/questions/29310116/removing-time-from-datetime-variable-in-pandas)
@@ -19,8 +21,10 @@
 
 
 ### Matplotlib
-- [Change Y axis to display integers](https://stackoverflow.com/questions/12050393/how-to-force-the-y-axis-to-only-use-integers)
 - [Change X axis to display integers](https://stackoverflow.com/questions/52229875/how-to-force-matplotlib-to-show-values-on-x-axis-as-integers)
+- [Change Y axis to display integers](https://stackoverflow.com/questions/12050393/how-to-force-the-y-axis-to-only-use-integers)
+- [Change figure size](https://stackoverflow.com/questions/332289/how-do-i-change-the-size-of-figures-drawn-with-matplotlib)
+
 
 
 ### Markdown
