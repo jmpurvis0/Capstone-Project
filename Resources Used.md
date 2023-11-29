@@ -20,6 +20,7 @@
 
 ## Matplotlib
 - https://stackoverflow.com/questions/12050393/how-to-force-the-y-axis-to-only-use-integers
+- https://stackoverflow.com/questions/52229875/how-to-force-matplotlib-to-show-values-on-x-axis-as-integers
 
 
 ## Markdown
