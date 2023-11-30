@@ -1,4 +1,19 @@
 # Animal Shelter Data Analysis
+
+This study explores trends in 2019-2023 animal shelter data by combining two datasets: data from Louisville Metro Animal Services and from Sonoma County Animal Services. The study will seek to answer the following questions:
+
+   - How many unique animals were served?
+   - How many animals were served multiple times?
+   - Which animal species and breeds were most commonly served?
+   - What are the most common reasons for animals to be taken to an animal shelter?
+
+Visualizations are provided for the following questions:
+
+   - How did animal intake change from 2019 to 2023?
+   - How long do animals typically stay in an animal shelter?
+   - What are the most common outcomes for animals in an animal shelter?
+
+Along with exploring the questions above, the Analysis portion also includes "Questions for Further Study" that go beyond the scope of this project but are meant for critical thinking and inspiration for further work.
  
 ## Setup Instructions
 1. Clone the repo to your machine.
@@ -10,8 +25,8 @@
     - Mac:  `source env/bin/activate`
 5. Install required packages and dependencies.
    - Type   `pip install -r requirements.txt`
-6. Open Jupyter Notebook
+6. Open Jupyter Notebook.
    - Type  `Jupyter Notebook`
 7. Navigate to the Jupyter Notebook file (it ends with .ipynb) and run the file.
-8. Deactivate the virtual environment
+8. Deactivate the virtual environment.
    - Type `deactivate`
