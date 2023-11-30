@@ -1,4 +1,4 @@
-# Capstone-Project
+# Animal Shelter Data Analysis
  
 ## Setup Instructions
 1. Clone the repo to your machine.
