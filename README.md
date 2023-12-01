@@ -21,8 +21,8 @@ Along with exploring the questions above, the Analysis portion also includes "Qu
 3. Create a virtual environment.
     - Type  `python3 -m venv venv`
 4. Activate the virtual environment.
-    - Windows:  `.\env\Scripts\activate`
-    - Mac:  `source env/bin/activate`
+    - Windows:  `venv/bin/activate`
+    - Mac:  `source venv/bin/activate`
 5. Install required packages and dependencies.
    - Type   `pip install -r requirements.txt`
 6. Open Jupyter Notebook.
