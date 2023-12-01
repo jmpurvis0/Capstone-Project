@@ -14,14 +14,14 @@ Visualizations are provided for the following questions:
    - What are the most common outcomes for animals in an animal shelter?
 
 Along with exploring the questions above, the Analysis portion also includes "Questions for Further Study" that go beyond the scope of this project but are meant for critical thinking and inspiration for further work. The [Resources Used](https://github.com/jmpurvis0/Capstone-Project/blob/main/Resources%20Used.md) file provides links to the dataset websites, as well as an Articles section showing all articles that helped in the creation of this project.
- 
+
 ## Setup Instructions
 1. Clone the repo to your machine.
-2. Open Gitbash (Windows) or Terminal (Mac) and navigate to the project folder.
+2. Open PowerShell (Windows) or Terminal (Mac) and navigate to the project folder.
 3. Create a virtual environment.
-    - Type  `python3 -m venv venv`
+    - Type  `python -m venv venv` or `python3 -m venv venv`
 4. Activate the virtual environment.
-    - Windows:  `venv/bin/activate`
+    - Windows:  `venv\Scripts\activate`
     - Mac:  `source venv/bin/activate`
 5. Install required packages and dependencies.
    - Type   `pip install -r requirements.txt`
