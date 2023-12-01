@@ -30,3 +30,11 @@ Along with exploring the questions above, the Analysis portion also includes "Qu
 7. Navigate to the Jupyter Notebook file (it ends with .ipynb) and run the file.
 8. Deactivate the virtual environment.
    - Type `deactivate`
+
+### Requirements
+This analysis fulfills every requirement for the Capstone Project:
+1. Read two data files (CSV).
+2. Clean data and perform a pandas merge with two datasets. Calculate new values based on the new data set.
+3. Make 3 matplotlib visualizations to display data.
+4. Utilize a virtual environment and include instructions in the README on how the user should set one up.
+5. Annotate code with markdown cells in Jupyter Notebook, write clear code comments, and have a well-written README.md.
