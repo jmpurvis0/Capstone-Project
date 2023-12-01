@@ -31,7 +31,7 @@ Along with exploring the questions above, the Analysis portion also includes "Qu
 8. Deactivate the virtual environment.
    - Type `deactivate`
 
-### Requirements
+## Project Requirements
 This analysis fulfills every requirement for the Capstone Project:
 1. Read two data files (CSV).
 2. Clean data and perform a pandas merge with two datasets. Calculate new values based on the new data set.
